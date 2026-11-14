@@ -64,7 +64,7 @@ Inspired by the familiar pinch-to-zoom experience found on smartphones, tablets,
 
 Once installed and enabled:
 
-1. Place two fingers on your multi-touch trackpad.
+1. Place three fingers on your multi-touch trackpad.
 2. Pinch outward to zoom in.
 3. Pinch inward to zoom out.
 4. Continue using your desktop with magnification enabled.
